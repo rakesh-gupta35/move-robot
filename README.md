@@ -1,5 +1,5 @@
 # move-robot
-A Robot Game
+A Robot Game.
 It is a running program.
 On execution a Robot will be at random position.
 It will keep on populating message on board, to win how many steps to move in which direction.
