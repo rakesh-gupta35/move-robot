@@ -6,4 +6,4 @@ It will keep on populating message on board, to win how many steps to move in wh
 Once a player reaches end point(Top Left) of board, he will get winning message.
 
 There is only one file in the project by the name of MoveRobotGame.py .
-The text file requirement.txt contain required modules.
+The text file requirement.txt contains required modules.
